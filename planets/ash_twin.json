@@ -1,0 +1,84 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "name": "Ash Twin",
+  "Base": {
+    "surfaceGravity": 18
+  },
+  "Sand": {
+    "size": 170,
+    "curve": [
+      { "time": 0, "value": 1 },
+      { "time": 3, "value": 0.1 }
+    ]
+  },
+  "Props": {
+    "details": [
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 0, "y": 175, "z": 0 },
+        "scale": 0.45,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 165, "y": 25, "z": 15 },
+        "scale": 0.4,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -165, "y": -25, "z": -15 },
+        "scale": 0.4,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 15, "y": 20, "z": 168 },
+        "scale": 0.4,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -15, "y": -20, "z": -168 },
+        "scale": 0.4,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 0, "y": -185, "z": 0 },
+        "scale": 0.6
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 168, "y": 12, "z": 0 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 168, "y": -12, "z": 0 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 165, "y": 0, "z": 14 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 165, "y": 0, "z": -14 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": -168, "y": 5, "z": 10 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": -168, "y": -5, "z": -10 },
+        "alignToNormal": true
+      }
+    ]
+  }
+}
+

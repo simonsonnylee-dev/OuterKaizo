@@ -1,0 +1,42 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "name": "DB_VesselDimension_Body",
+  "Atmosphere": {
+    "fogTint": { "r": 0, "g": 0, "b": 0, "a": 255 },
+    "fogDensity": 1.0,
+    "fogSize": 1000
+  },
+  "Props": {
+    "details": [
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 45, "y": 30, "z": 60 }, "scale": 0.45 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -45, "y": -30, "z": 60 }, "scale": 0.45 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 70, "y": -45, "z": 110 }, "scale": 0.5 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -70, "y": 45, "z": 110 }, "scale": 0.5 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": 95, "z": 150 }, "scale": 0.55 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": -95, "z": 150 }, "scale": 0.55 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 110, "y": 60, "z": 190 }, "scale": 0.6 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -110, "y": -60, "z": 190 }, "scale": 0.6 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 140, "y": -80, "z": 240 }, "scale": 0.7 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -140, "y": 80, "z": 240 }, "scale": 0.7 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 60, "y": 140, "z": 280 }, "scale": 0.65 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -60, "y": -140, "z": 280 }, "scale": 0.65 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 180, "y": 0, "z": 310 }, "scale": 0.75 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -180, "y": 0, "z": 310 }, "scale": 0.75 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 90, "y": -120, "z": -80 }, "scale": 0.6 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -90, "y": 120, "z": -80 }, "scale": 0.6 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 160, "y": 130, "z": -140 }, "scale": 0.8 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -160, "y": -130, "z": -140 }, "scale": 0.8 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": 180, "z": -100 }, "scale": 0.7 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": -180, "z": -100 }, "scale": 0.7 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 210, "y": -90, "z": 50 }, "scale": 0.85 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -210, "y": 90, "z": -50 }, "scale": 0.85 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 50, "y": 70, "z": 340 }, "scale": 0.45 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -50, "y": -70, "z": 340 }, "scale": 0.45 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 85, "y": -60, "z": 370 }, "scale": 0.5 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": -85, "y": 60, "z": 370 }, "scale": 0.5 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": 55, "z": 395 }, "scale": 0.4 },
+      { "path": "DB_Anglerfish_Body/Beast_Anglerfish", "position": { "x": 0, "y": -55, "z": 395 }, "scale": 0.4 }
+    ]
+  }
+}
+

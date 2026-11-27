@@ -1,0 +1,97 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "name": "Timber Hearth",
+  "Base": {
+    "surfaceGravity": 22
+  },
+  "Props": {
+    "details": [
+      // --- VILLAGE & LAUNCH PAD ANGLERFISH SWARM ---
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 12, "y": -235, "z": 78 },
+        "scale": 0.35,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -18, "y": -232, "z": 85 },
+        "scale": 0.35,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 5, "y": -220, "z": 110 },
+        "scale": 0.4,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 35, "y": -238, "z": 60 },
+        "scale": 0.35,
+        "alignToNormal": true
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -30, "y": -240, "z": 50 },
+        "scale": 0.35,
+        "alignToNormal": true
+      },
+
+      // --- UPPER ATMOSPHERE SHIP BLOCKADE (FULL SIZE) ---
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 0, "y": -320, "z": 120 },
+        "scale": 1.0
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 120, "y": -300, "z": 100 },
+        "scale": 1.0
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -120, "y": -300, "z": 100 },
+        "scale": 1.0
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 0, "y": -280, "z": 220 },
+        "scale": 1.2
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": 150, "y": -250, "z": -150 },
+        "scale": 1.2
+      },
+      {
+        "path": "DB_Anglerfish_Body/Beast_Anglerfish",
+        "position": { "x": -150, "y": -250, "z": -150 },
+        "scale": 1.2
+      },
+
+      // --- ELK PATROL SQUAD (LAUNCH TOWER & ELEVATOR) ---
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": -8, "y": -243, "z": 58 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 8, "y": -243, "z": 58 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 0, "y": -238, "z": 72 },
+        "alignToNormal": true
+      },
+      {
+        "path": "RingWorld_Body/Sector_RingInterior/Sector_Zone1/Sector_DreamFireHouse_Zone1/Interactables_DreamFireHouse_Zone1/VisibleFromFar/Prefab_IP_GhostBird_Guard",
+        "position": { "x": 18, "y": -236, "z": 82 },
+        "alignToNormal": true
+      }
+    ]
+  }
+}
+
